@@ -1,6 +1,6 @@
 # notifs-astra
 
-Voici la seule repo GitHub qui vous montre comment on utilise les notifs SeaLife (flashbackfa etc).
+Voici la seule repo GitHub qui vous montre comment on utilise les notifs astra (SeaLife, Flashback FA etc).
 
 Rejoignez ce discord pour toute demande d'aide: https://discord.gg/5dev meilleur discord de leak
 
@@ -68,3 +68,5 @@ Pour changer l'icône de la notification, allez dans ``bulletin/ui/icons`` et vo
 ⚠️Le fichier doit s'appeler ``message.png``⚠️
 
 Et voilà, c'est fini. Si vous avez des soucis: https://discord.gg/5dev
+
+Pour info, j'ai testé ces notifs en esx legacy 1.6 et cela marche parfaitement !
