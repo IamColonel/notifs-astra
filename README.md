@@ -1,12 +1,12 @@
-# notifs-sealife
+# notifs-astra
 
 Voici la seule repo GitHub qui vous montre comment on utilise les notifs SeaLife (flashbackfa etc).
 
-Rejoignez ce discord pour toute demande d'aide: https://discord.gg/fivedev meilleur discord de leak
+Rejoignez ce discord pour toute demande d'aide: https://discord.gg/5dev meilleur discord de leak
 
 ## Comment utiliser les notifs
 
-En premier temps, il vous faudra installer le script qui se nomme ``bulletin``. [Cliquez ici pour le télécharger](https://gofile.io/d/0IRTH8)
+En premier temps, il vous faudra installer le script qui se nomme ``bulletin``. 
 
 Une fois mis dans le dossier ``resources`` de votre serveur, il vous faudra le start dans le ``server.cfg`` ou le ``ressources.cfg`` cela dépend de votre base.
 
@@ -67,4 +67,4 @@ Pour changer l'icône de la notification, allez dans ``bulletin/ui/icons`` et vo
 
 ⚠️Le fichier doit s'appeler ``message.png``⚠️
 
-Et voilà, c'est fini. Si vous avez des soucis: https://discord.gg/fivedev
+Et voilà, c'est fini. Si vous avez des soucis: https://discord.gg/5dev
